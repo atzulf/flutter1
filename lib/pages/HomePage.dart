@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
-  // halo
+
   @override
   State<HomePage> createState() => _HomePageState();
 }
